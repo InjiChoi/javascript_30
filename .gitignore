@@ -4,9 +4,9 @@
 .AppleDouble
 .LSOverride
 
+# custom
 venv/
-Day19_Webcam Fun/node_modules/
-Day20_Speech Detection/node_modules/
+*/node_modules/
 */package-lock.json
 */package.json
 
